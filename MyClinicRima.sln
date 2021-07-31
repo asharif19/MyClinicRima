@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClinicRima", "MyClinicRima\MyClinicRima.csproj", "{3364443A-D2B8-4911-9803-27D259D6B1E6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Proj", "Setup Proj\Setup Proj.vdproj", "{37D47098-4666-4309-8B48-FFF28398C1A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3364443A-D2B8-4911-9803-27D259D6B1E6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{3364443A-D2B8-4911-9803-27D259D6B1E6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{3364443A-D2B8-4911-9803-27D259D6B1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3364443A-D2B8-4911-9803-27D259D6B1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D47098-4666-4309-8B48-FFF28398C1A1}.Debug|Any CPU.ActiveCfg = Debug
+		{37D47098-4666-4309-8B48-FFF28398C1A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96950FC0-88E2-46EF-B9CB-5BB7B938DD15}
+	EndGlobalSection
+EndGlobal
